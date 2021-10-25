@@ -7,3 +7,6 @@ Code and datasets for paper "Kullback-Leibler divergence of multivariate distrib
 ## Data avalability
 - We put all the datsets on Google Drive, you can download them from [here](https://drive.google.com/file/d/1eL6I393qSStDocIPgEEL2tC65WguD-Ql/view?usp=sharing).
 - Before run the code, you should unzip the data files into the folder [./data_files](./data_files).
+
+## Demo
+After putting the data folder "data_files/simulation" from the zipped [file](https://drive.google.com/file/d/1eL6I393qSStDocIPgEEL2tC65WguD-Ql/view?usp=sharing) into the folder [./data_files](./data_files), the noebook "dind_main.ipynb" in repository can demonstrate the effectiveness of our method on numerical simulation data.
