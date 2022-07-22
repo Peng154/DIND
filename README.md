@@ -7,7 +7,7 @@ Code and datasets for paper "Identifying the critical states of complex diseases
 ## Requirements
 - python >= 3.7.10
 
-It it suggest that running this notbook on a Linux system (e.g. Ubuntu 18.04) rather than Windows, since there may exist some bugs with the multiprocess module of Python in a Windows environment.
+It it suggest that running this notebook on a Linux system (e.g. Ubuntu 18.04) rather than Windows, since there may exist some bugs with the multiprocess module of Python in a Windows environment.
 
 ## Data avalability
 - We put all the datsets on Google Drive, you can download them from [here](https://drive.google.com/file/d/1eL6I393qSStDocIPgEEL2tC65WguD-Ql/view?usp=sharing).
